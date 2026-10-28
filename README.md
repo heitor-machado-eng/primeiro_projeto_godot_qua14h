@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # progjogosqua14h
 =======
 # progjogosqua14h
@@ -13,4 +13,4 @@
 
 ### heitor-machado-eng
 
->>>>>>> 71f37f62771df23f52ebda69e29e96c766143ec5
+
